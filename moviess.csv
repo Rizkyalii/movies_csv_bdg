@@ -1,0 +1,21 @@
+movie_id,title,release_year,genre_id,director_id,lead_actor_id,duration_minutes,rating,budget_usd_million,language
+1,Bayangan Senja,2005,1,1,1,90,5.5,5,Indonesia
+2,Langit Terakhir,2007,2,4,8,101,5.9,18,Inggris
+3,Jejak di Pasir,2009,3,7,15,112,6.2,31,Korea
+4,Kota Tanpa Nama,2011,4,10,2,123,6.6,44,Jepang
+5,Rindu di Ujung Hujan,2013,5,13,9,134,7.0,57,Indonesia
+6,Operasi Cakrawala,2015,6,16,16,145,7.3,70,Indonesia
+7,Malam Seribu Mata,2017,7,19,3,156,7.7,83,Inggris
+8,Pulau Terlarang,2019,8,2,10,97,8.1,96,Korea
+9,Detak Waktu,2021,9,5,17,108,8.5,14,Jepang
+10,Sang Pengembara,2023,10,8,4,119,8.8,27,Indonesia
+11,Rumah di Balik Kabut,2005,11,11,11,130,9.2,40,Indonesia
+12,Cinta Dua Dunia,2007,12,14,18,141,5.6,53,Inggris
+13,Misi Bintang Biru,2009,1,17,5,152,5.9,66,Korea
+14,Hutan Berbisik,2011,5,20,12,93,6.3,79,Jepang
+15,Pelarian Terakhir,2013,7,3,19,104,6.7,92,Indonesia
+16,Gema Samudra,2015,10,6,6,115,7.0,10,Indonesia
+17,Kode Merah,2017,11,9,13,126,7.4,23,Inggris
+18,Senyum Sang Maestro,2019,2,12,20,137,7.8,36,Korea
+19,Perjalanan Sang Naga,2021,9,15,7,148,8.2,49,Jepang
+20,Tanah Harapan,2023,18,18,14,159,8.5,62,Indonesia

@@ -1,0 +1,21 @@
+genre_id,genre_name,description,is_popular
+1,Action,Film dengan adegan pertarungan dan aksi intens,1
+2,Drama,Cerita emosional tentang kehidupan,1
+3,Comedy,Film yang bertujuan menghibur dan membuat tertawa,1
+4,Horror,Film menegangkan dan menakutkan,1
+5,Sci-Fi,Fiksi ilmiah dan teknologi masa depan,1
+6,Romance,Kisah percintaan,1
+7,Thriller,Ketegangan dan misteri,1
+8,Animation,Film animasi,1
+9,Fantasy,Dunia imajinatif dan sihir,1
+10,Adventure,Petualangan dan eksplorasi,1
+11,Crime,Kriminalitas dan penyelidikan,1
+12,Mystery,Teka-teki dan misteri,1
+13,Documentary,Film dokumenter berbasis fakta,0
+14,Biography,Kisah hidup tokoh nyata,0
+15,War,Latar peperangan,0
+16,Musical,Film dengan unsur musik dan lagu,0
+17,Western,Latar Amerika Barat lama,0
+18,Family,Cocok ditonton keluarga,1
+19,History,Peristiwa sejarah,0
+20,Sport,Cerita seputar olahraga,0
